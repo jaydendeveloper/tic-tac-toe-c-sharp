@@ -1,0 +1,7 @@
+J:\12c\c#\20241105\tiktaktoe\tiktaktoe\bin\Debug\tiktaktoe.exe.config
+J:\12c\c#\20241105\tiktaktoe\tiktaktoe\bin\Debug\tiktaktoe.exe
+J:\12c\c#\20241105\tiktaktoe\tiktaktoe\bin\Debug\tiktaktoe.pdb
+J:\12c\c#\20241105\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.csproj.AssemblyReference.cache
+J:\12c\c#\20241105\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.csproj.CoreCompileInputs.cache
+J:\12c\c#\20241105\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.exe
+J:\12c\c#\20241105\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.pdb
